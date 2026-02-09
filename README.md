@@ -1,3 +1,11 @@
+# Chocolate Maker
+
+Chocolate Maker is a lightweight Qwik-based web application for designing, customizing, and previewing chocolate recipes and products. Create and tweak chocolate bar recipes, manage ingredient lists, preview simple packaging, and simulate basic orders — all with a fast, component-driven UI powered by Qwik and Vite.
+
+Built with Qwik and Vite for fast load times and instant interactivity.
+
+---
+
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.dev/)
